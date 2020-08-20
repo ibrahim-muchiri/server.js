@@ -10,6 +10,6 @@ app.get('/', function(req, res)
 
 app.listen(3000, function ()
 {
-    
+
     console.log('server listening to port 3000');
 });
